@@ -26,8 +26,6 @@ public class Sandwich {
         this.ingredients = ingredients;
     }
 
-
-
     public String getMainName() {
         return mainName;
     }
@@ -43,8 +41,6 @@ public class Sandwich {
     public void setAlsoKnownAs(List<String> alsoKnownAs) {
         this.alsoKnownAs = alsoKnownAs;
     }
-
-
 
     public String getPlaceOfOrigin() {
         return placeOfOrigin;
